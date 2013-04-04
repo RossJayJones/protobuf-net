@@ -1,0 +1,8 @@
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\bin\Debug\Protobuf.FailingTest.exe
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\bin\Debug\Protobuf.FailingTest.pdb
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\bin\Debug\protobuf-net.dll
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\bin\Debug\protobuf-net.pdb
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\bin\Debug\protobuf-net.xml
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\obj\x86\Debug\Protobuf.FailingTest.exe
+C:\Data\Projects\Tests\Protobuf.FailingTest\Protobuf.FailingTest\obj\x86\Debug\Protobuf.FailingTest.pdb
